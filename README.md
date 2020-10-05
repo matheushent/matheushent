@@ -1,6 +1,6 @@
 ### Hello 👋
 
-:blue_heart: Music | :earth_africa: Travelling | :blue_heart: Fatherhood
+:musical_note: Music | :earth_africa: Travelling | :blue_heart: Fatherhood
 
 I am an Electronic Engineering student at UFSC based in Florianópolis - :brazil:.
 
