@@ -10,3 +10,5 @@ I am an Electronic Engineering student at UFSC based in Florianópolis - :brazil
 - 👯 I'm looking to collaborate on machine learning problems, specially in DevOps role;
 - :zany_face: Fun fact: I am a massive battlefield 5 player. Let's make a team :wink:;
 - 📫 How to reach me: https://www.linkedin.com/in/matheus-tosta-b3304915a/.
+
+Find my CV [here](https://drive.google.com/file/d/1UvwWk8uelKhY_T3sQpmtVKwAHe4WZagj/view?usp=sharing)
