@@ -11,4 +11,4 @@ I am an Electronic Engineering student at UFSC based in Florianópolis - :brazil
 - :zany_face: Fun fact: I am a massive battlefield 5 player on PS4. Let's make a team :wink:;
 - 📫 How to reach me: https://www.linkedin.com/in/matheustosta/.
 
-Find my CV [here](https://drive.google.com/file/d/1UvwWk8uelKhY_T3sQpmtVKwAHe4WZagj/view?usp=sharing).
+Find my CV [here](https://drive.google.com/file/d/1nFVVaR0dp7tpqtqIpq2hPOVsBV1oewTP/view?usp=sharing).
