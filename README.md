@@ -81,7 +81,9 @@ I am an Electronic Engineering student at UFSC based in Florianópolis - :brazil
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/twilio/twilio-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sendgrid/sendgrid-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg"></code>
 </p>
 
 **Management tools to which I'm familiar with**
