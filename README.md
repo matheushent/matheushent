@@ -54,7 +54,7 @@ I am an Electronic Engineering student at UFSC based in Florianópolis - :brazil
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 </p>
 
-**Nice tools I do use every day**
+**Cool stuff I do use every day**
 
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
@@ -73,6 +73,7 @@ I am an Electronic Engineering student at UFSC based in Florianópolis - :brazil
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/sentryio/sentryio-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/auth0/auth0-ar21.svg"></code>
 </p>
 
 **Nice tools I do not use often but know how to use**
