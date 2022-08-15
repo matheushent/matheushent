@@ -11,7 +11,7 @@ I am an Electronic Engineering student at UFSC based in Florianópolis - :brazil
 - 🔭 I'm currently working full-time as a Principal Engineer at [Omnivector Solutions](https://omnivector.solutions);
 - :school: I have academic experience as computer vision researcher at [LAR](https://robotica.ufsc.br/en/) and Machine Learning Engineer at [LabMat](https://labmat.ufsc.br/);
 - 🌱 I'm currently diving into the cloud engineering world and working on HPC initiatives;
-- :zany_face: Fun fact: I am a massive battlefield 5 player on PS4, Brawl Stars player and Clash of Clans fan. Let's make a team :wink:;
+- :zany_face: Fun fact: I am a massive Battlefield 5 player on Playstation (4 and 5), Brawl Stars player and Clash of Clans fan. Let's make a team :wink:;
 
 ---
 
