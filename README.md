@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/matheushent)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheustosta/)
-
+[![Resume](https://img.shields.io/badge/📄-Resume-gray)](https://docs.google.com/document/d/e/2PACX-1vRRMLM0S5v7w6jgxT-IUq-j9j6RFVzQHkml1icg2maHXenDIZDGoVeE3qqjUF04CQ/pub)
 
 :musical_note: Music | :earth_africa: Travelling | :family_man_woman_boy: Family
 
